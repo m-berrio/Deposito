@@ -10,7 +10,7 @@ package cuentas;
  * @author Manuel Berrio
  */
 public class CCuenta {
-    //hola ho
+    //hola hola hola
     private String nombre;
     private String cuenta;
     private double saldo;
