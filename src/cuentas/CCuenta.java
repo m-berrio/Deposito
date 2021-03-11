@@ -8,6 +8,7 @@ package cuentas;
 /**
  *
  * @author Manuel Berrio
+ * Visto
  */
 public class CCuenta {
     //hola hola hola
